@@ -1,0 +1,1 @@
+rsg_name = "terraform_ho02"
